@@ -1,6 +1,6 @@
 ## Seja bem-vindo, sou o Gustavo!!
-- 🦷 Estagiário da Odontoprev S/A, atuando na área de sistemas internos.
-- 🚀 Formado no Curso Técnico de Informática no CEAP.
+- 🦷 Desenvolvedor fullstack da Odontoprev S/A.
+- 🚀 Formado em Análise e desenvolvimento de sistemas, cursando pós-graduação em Gestão e Governaça da Tecnologia da Informação.
 
  <div>
 <div align="center">
