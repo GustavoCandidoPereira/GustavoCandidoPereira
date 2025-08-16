@@ -16,7 +16,6 @@
   <img align="center" alt="Gustavp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gustavo-img" height="150" style="border-radius:50px;" src="https://i0.wp.com/gamepress.com.br/wp-content/uploads/2019/03/E_My_Sports_promo_1.jpg?fit=1400%2C788&ssl=1">
 </div>
   
    ##
