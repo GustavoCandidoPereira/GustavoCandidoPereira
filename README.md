@@ -3,11 +3,6 @@
 - 🚀 Formado em Análise e desenvolvimento de sistemas, cursando pós-graduação em Gestão e Governaça da Tecnologia da Informação.
 
  <div>
-<div align="center">
-  <a href="https://github.com/GustavoCandidoPereira">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCandidoPereira&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GustavoCandidoPereira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
