@@ -1,5 +1,5 @@
-## Seja bem-vindo, sou o Gustavo!!
-- 🦷 Desenvolvedor fullstack da Odontoprev S/A.
+## Seja bem-vindo, sou o Gustavo!
+- 🧑🏽‍💻 Desenvolvedor fullstack.
 - 🚀 Formado em Análise e desenvolvimento de sistemas, cursando pós-graduação em Gestão e Governaça da Tecnologia da Informação.
 
  <div>
